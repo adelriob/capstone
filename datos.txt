@@ -1,0 +1,16 @@
+Jenkins                     :
+User name                   :   Capstone
+Password                    :   toor
+Access key ID               :   AKIAYZZNXNNA6PCTBTOL
+Secret access key           :   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
+Console login link          :   https://605149424449.signin.aws.amazon.com/console
+
+
+
+
+Token GitHub                :   20a026a8043b5f30a18565ab9dae09e973613f66
+
+
+DockerHub                   :
+User                        : sopotropo
+Password                    : lltyrell
