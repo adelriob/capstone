@@ -22,7 +22,7 @@ pipeline {
                 }
             }
         }
-        stage('Create conf file Cluster') {
+        stage('Create or update configuration file for Cluster') {
             steps {
                 withAWS(region:'us-east-2', credentials:'capstone') {
                     sh '''
